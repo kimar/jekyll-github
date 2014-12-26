@@ -23,7 +23,7 @@ Add Liquid Tags to your pages, e.g.:
 
 Make sure to include `github.js`, all stars will be loaded after DOM is ready:
 
-```
+```javascript
 <script src="/js/github.js" type="text/javascript"></script>
 ```
 
