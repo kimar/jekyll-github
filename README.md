@@ -27,6 +27,14 @@ Make sure to include `github.js`, all stars will be loaded after DOM is ready:
 <script src="/js/github.js" type="text/javascript"></script>
 ```
 
+### Limitations
+
+* This plugin uses GitHub's Public API which is affected by the 60 reqs / h rate limits. Get [more info here](https://developer.github.com/v3/#rate-limiting).
+
+### ToDo
+
+* (Optionally) use authenticated API to have higher rate limits
+
 ### LICENSE
 (c) 2014 by Marcus Kida
 
